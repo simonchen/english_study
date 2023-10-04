@@ -24,5 +24,5 @@ amusing 有趣
 burglar 窃贼
 the most importance in olympic is not to win but to participate 参与
 sorry to be direct 恕我直言
-
+whistle blow 汽笛响起
 </pre>
