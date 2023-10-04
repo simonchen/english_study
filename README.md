@@ -17,5 +17,7 @@ impractical 不切实际
 direct marketing 直销
 hand out 施，分发
 flat tire 爆胎
+testimony 证据
+self-possessed 自制力
 
 </pre>
