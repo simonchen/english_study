@@ -22,6 +22,7 @@ self-possessed 自制力
 remit full settlement 汇出全部款项
 amusing 有趣
 burglar 窃贼
-
+the most importance in olympic is not to win but to participate 参与
+sorry to be direct 恕我直言
 
 </pre>
