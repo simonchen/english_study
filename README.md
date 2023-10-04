@@ -13,4 +13,9 @@ sympathize with sorrow 同情悲伤
 sympathize with joy 同情快乐
 in the course of time 随着时间推移
 wield edged tool 挥动利器
+impractical 不切实际
+direct marketing 直销
+hand out 施，分发
+flat tire 爆胎
+
 </pre>
