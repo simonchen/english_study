@@ -19,5 +19,9 @@ hand out 施，分发
 flat tire 爆胎
 testimony 证据
 self-possessed 自制力
+remit full settlement 汇出全部款项
+amusing 有趣
+burglar 窃贼
+
 
 </pre>
