@@ -29,5 +29,7 @@ absense of better ideas 没有更好的想法
 take in washing 洗衣服 、 收衣服？
 pigeon 鸽子
 magnetic field 磁场
+malicious gossip 恶意的流言蜚语
+a pair of leather gloves 一双皮手套
 
 </pre>
