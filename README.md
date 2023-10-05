@@ -27,5 +27,7 @@ sorry to be direct 恕我直言
 whistle blow 汽笛响起
 absense of better ideas 没有更好的想法
 take in washing 洗衣服 、 收衣服？
+pigeon 鸽子
+magnetic field 磁场
 
 </pre>
