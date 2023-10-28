@@ -38,4 +38,7 @@ funarel 葬礼
 helicopter 直升机
 continent 大陆
 stereotyped sob 老套的催人泪下
+press 新闻界
+fall with a crash 坠毁
+
 </pre>
