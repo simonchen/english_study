@@ -36,4 +36,5 @@ malicious gossip 恶意的流言蜚语
 a pair of leather gloves 一双皮手套
 funarel 葬礼
 helicopter 直升机
+continent 大陆
 </pre>
