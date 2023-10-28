@@ -2,6 +2,9 @@
 Learning english
 
 <pre>
+stalking ex-wife 跟踪前妻
+the hat is very becoming on you 这帽子很适合你
+  
 blow off some steam 发泄一下, 舒缓压力
 make the grade 取得成绩
 no sense of humor 缺乏幽默感
