@@ -37,4 +37,5 @@ a pair of leather gloves 一双皮手套
 funarel 葬礼
 helicopter 直升机
 continent 大陆
+stereotyped sob 老套的催人泪下
 </pre>
