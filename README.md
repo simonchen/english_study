@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+time to time 时不时的，偶尔
 cliff 悬崖
 spilt milk 覆水难收
 kills time 消磨时间
