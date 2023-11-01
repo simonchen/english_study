@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+take sth. into account 考虑到某事
 statesman 政治家
 concert 音乐会
 blow off some steam 发泄一下, 舒缓压力
