@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+flooded / crowded 挤满
 prisoner 囚犯
 set at liberty 设为自由（释放）
 engrossed 全神贯注
