@@ -8,6 +8,8 @@ the hat is very becoming on you 这帽子很适合你
 spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
+
+cliff 悬崖
 spilt milk 覆水难收
 kills time 消磨时间
 there is no use crying over the spilt milk 事情过去了，哭也没用
