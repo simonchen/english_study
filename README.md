@@ -10,7 +10,7 @@ pristine 原始的
 rave 狂欢，敬服
 spilt milk 覆水难收
 kills time 消磨时间
-there is no use crying over the spilk milk 事情过去了，哭也没用
+there is no use crying over the spilt milk 事情过去了，哭也没用
 flooded / crowded 挤满
 prisoner 囚犯
 set at liberty 设为自由（释放）
