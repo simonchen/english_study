@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+proportionate adj. 相称的
 benevolent adj. 仁慈的
 entitled adj. 有权，有资格
 mat 垫子
