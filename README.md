@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+swelling 肿胀
 authority 权威
 sophisticated 复杂的
 accompany vt. 陪伴
