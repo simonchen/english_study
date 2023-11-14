@@ -9,6 +9,8 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+fragment 碎片
+scatter 散开
 swelling 肿胀
 authority 权威
 sophisticated 复杂的
