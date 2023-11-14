@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+sophisticated 复杂的
 accompany vt. 陪伴
 famine 饥荒
 plague 瘟疫
