@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+exemption 豁免
 proportionate adj. 相称的
 heritage 遗产
 benevolent adj. 仁慈的
