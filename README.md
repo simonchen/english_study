@@ -9,6 +9,9 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+accompany vt. 陪伴
+famine 饥荒
+plague 瘟疫
 exemption 豁免
 proportionate adj. 相称的
 heritage 遗产
