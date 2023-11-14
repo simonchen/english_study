@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+fence 栅栏
 You should not have your own way in everything 你不能凡事都按自已的方式行事
 plunge 跳水，暴跌
 stain 污渍
@@ -59,7 +60,8 @@ flat tire 爆胎
 testimony 证据
 self-possessed 自制力
 remit full settlement 汇出全部款项
-amusing 有趣
+amusing adj. 有趣
+amuse vt. 逗乐
 burglar 窃贼
 the most importance in olympic is not to win but to participate 参与
 sorry to be direct 恕我直言
