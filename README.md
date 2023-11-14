@@ -10,6 +10,7 @@ pristine 原始的
 rave 狂欢，敬服
 
 account for 占
+Chemical products account for approximately two-thirds of our exports.
 fragment 碎片
 scatter 散开
 swelling 肿胀
