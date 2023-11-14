@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+stain 污渍
 frightened 受惊的 (frighten过去分词)
 account for 占
 Chemical products account for approximately two-thirds of our exports.
