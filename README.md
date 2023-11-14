@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+You should not have your own way in everything 你不能凡事都按自已的方式行事
 plunge 跳水，暴跌
 stain 污渍
 frightened 受惊的 (frighten过去分词)
