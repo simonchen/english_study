@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+compose, composer, composition 作曲， 作曲家， 作品、作文
 curve 曲线
 fence 栅栏
 You should not have your own way in everything 你不能凡事都按自已的方式行事
