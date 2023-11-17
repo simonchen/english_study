@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+bully 欺负
 scolded 挨骂
 compose, composer, composition 作曲， 作曲家， 作品、作文
 curve 曲线
