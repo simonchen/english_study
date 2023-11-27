@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+banged vt. 撞，击
 outrageous 不像话，令人发指的
 bully 欺负
 scolded 挨骂
