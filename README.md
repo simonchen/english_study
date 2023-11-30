@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+soaked vt. 浸泡
 chilly 寒冷 
 cheese 奶酪
 worn out 筋疲力尽
