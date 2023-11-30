@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+cheese 奶酪
 worn out 筋疲力尽
 strictly fish 炸鱼
 jungle 丛林
