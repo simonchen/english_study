@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+resemble 类似
 fellow 家伙
 quantity 数量
 quality 质量
