@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+mild-mannered 温和的
 diet 节食
 predator 捕食者
 resemble v. 类似
