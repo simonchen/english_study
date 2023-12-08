@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+rope 绳子
 trousers 裤子
 bulkly 笨重的
 mild-mannered 温和的
