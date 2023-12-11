@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+jealous adj. 嫉妒的
 roof 屋顶
 antennal 触角，天线
 dreadful 糟糕的，可怕的
