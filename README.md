@@ -9,6 +9,8 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+
+flat tire 爆胎
 agenda 议程
 jealous adj. 嫉妒的
 roof 屋顶
