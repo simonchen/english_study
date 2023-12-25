@@ -10,6 +10,7 @@ pristine 原始的
 rave 狂欢，敬服
 
 
+don't take chances 别冒险
 eyelied 眼皮（睑）
 kleenex 纸巾
 go straight on 一直走
