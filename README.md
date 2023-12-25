@@ -9,7 +9,8 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
-
+imitations 假冒
+fireproof 防火
 don't take chances 别冒险
 eyelied 眼皮（睑）
 kleenex 纸巾
