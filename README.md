@@ -9,6 +9,8 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+
+eyelied 眼皮（睑）
 kleenex 纸巾
 go straight on 一直走
 feel relief 感到轻松
