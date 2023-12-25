@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+marvelous 奇妙的
 imitations 假冒
 fireproof 防火
 don't take chances 别冒险
