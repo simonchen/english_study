@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+flatter 奉承，带高帽子 flattered 受宠若惊
 nearsighted 近视
 seldom adv. 很少
 drop by anyting 随时过来
