@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+envy 羡慕，嫉妒
 coincidence [kōˈinsədəns] 巧合
 marvelous 奇妙的
 imitations 假冒
