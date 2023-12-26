@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+layman 外行
 fooling around 无所事事
 cavities 驻牙（空洞）
 envy 羡慕，嫉妒
