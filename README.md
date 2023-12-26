@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+allergies 过敏
 insects 昆虫
 flatter 奉承，带高帽子 flattered 受宠若惊
 nearsighted 近视
