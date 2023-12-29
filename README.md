@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+unbearable 难以忍受的
 haste makes waste 欲速测不达
 bloom 盛开 （flowers bloom)
 mumble 咕哝，窃窃丝语
