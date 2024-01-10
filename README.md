@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+sterilize v. 消毒
 passage 通道，片断（有时指文章的片断）
 unbearable 难以忍受的
 haste makes waste 欲速测不达
