@@ -21,7 +21,7 @@ flatter 奉承，带高帽子 flattered 受宠若惊
 nearsighted 近视
 seldom adv. 很少
 drop by anyting 随时过来
-consent 同意
+consent n. 同意
 layman 外行
 fooling around 无所事事
 cavities 驻牙（空洞）
