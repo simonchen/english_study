@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+diarrhea 腹泻
 mortgage 抵押
 companion 伴侣，伙伴
 sterilize v. 消毒
