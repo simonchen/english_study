@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+cranky 易怒的，胡思乱想，怪僻的
 diarrhea 腹泻
 mortgage 抵押
 companion 伴侣，伙伴
