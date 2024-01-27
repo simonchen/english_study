@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+delicate adj. 精美的，奇妙的
 adorable adj. 可爱的
 worn out 累死了
 abruptly adv. 突然地
