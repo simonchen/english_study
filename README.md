@@ -9,6 +9,8 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+adorable adj. 可爱的
+worn out 累死了
 abruptly adv. 突然地
 cranky 易怒的，胡思乱想，怪僻的
 diarrhea 腹泻
