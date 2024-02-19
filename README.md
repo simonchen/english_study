@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+prevalent 流行
 abstension n. 弃权
 vegetarian 素食主义者
 delicate adj. 精美的，奇妙的
