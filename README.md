@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+mortgage 抵押
 prevalent 流行
 abstension n. 弃权
 vegetarian 素食主义者
