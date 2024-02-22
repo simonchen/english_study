@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+Better later than never 亡羊补牢，为时未晚
 waist-length hair 长发齐腰
 mortgage 抵押
 prevalent 流行
