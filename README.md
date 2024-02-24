@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+mosquito 蚊子
 expedition 远征，探险
 Exhausted 精疲力尽
 enthusiastic [inˌTH(y)o͞ozēˈastik] 热情的
