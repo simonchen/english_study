@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+Exhausted 精疲力尽
 enthusiastic [inˌTH(y)o͞ozēˈastik] 热情的
 childish 孩子气, 幼稚  
 stiff 拘谨的，僵硬的
