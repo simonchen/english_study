@@ -12,6 +12,7 @@ rave 狂欢，敬服
 mosquito [məˈskēdō] 蚊子
 expedition 远征，探险
 Exhausted 精疲力尽
+Enthusiasts 爱好者
 enthusiastic [inˌTH(y)o͞ozēˈastik] 热情的
 childish 孩子气, 幼稚  
 stiff 拘谨的，僵硬的
