@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+childish 孩子气, 幼稚  
 stiff 拘谨的，僵硬的
 mascara 睫毛膏
 curtains 窗帘
