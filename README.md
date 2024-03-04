@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+casual 随意的
 entertain 招待，使某人快乐
 shelf 架子
 mosquito [məˈskēdō] 蚊子
