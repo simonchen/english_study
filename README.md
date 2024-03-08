@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+stiff 拘谨的，僵硬的
 longing for 渴望
 witty 风趣的
 casual 随意的
