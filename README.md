@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+essay 散文
 chuckle v. 暗笑，adj.  咯咯笑
 cabin 舱，小屋
 log 圆木，日志
