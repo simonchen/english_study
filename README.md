@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+chuckle v. 暗笑，adj.  咯咯笑
 cabin 舱，小屋
 log 圆木，日志
 stimulating 刺激的
@@ -126,7 +127,7 @@ cliff 悬崖
 spilt milk 覆水难收
 kills time 消磨时间
 there is no use crying over the spilt milk 事情过去了，哭也没用
-flooded / crowded 挤满
+flooded / crowded / teeming 挤满
 prisoner 囚犯
 set at liberty 设为自由（释放）
 engrossed 全神贯注
