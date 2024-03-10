@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+I hit upon a good idea 我突然想到一个好主意
 scissors 剪刀
 essay 散文
 chuckle v. 暗笑，adj.  咯咯笑
