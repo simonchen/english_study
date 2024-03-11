@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+modest 谦虚的
 hypothesis [hīˈpäTHəsəs] 假设
 I hit upon a good idea 我突然想到一个好主意
 scissors 剪刀
