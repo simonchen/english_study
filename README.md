@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+worn out 累死了
 eloquent adj. 雄辩
 stimulating 刺激的，很有趣的
 quarrel 吵架
