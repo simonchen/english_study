@@ -20,6 +20,7 @@ porch 门廊
 creaked 吱吱作响 
 claustrophobic [ˌklôstrəˈfōbik] 幽闭恐怖症
 musty 霉
+furniture 家俱
 
 I'm adopted 我是被领养的
 thrilled 激动
