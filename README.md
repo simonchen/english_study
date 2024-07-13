@@ -9,6 +9,10 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+scrunched-up 揉成一团的
+powder 粉末
+crumpled 皱巴巴的
+
 I'm adopted 我是被领养的
 thrilled 激动
 fed up 受够了
