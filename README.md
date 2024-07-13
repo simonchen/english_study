@@ -17,6 +17,7 @@ vigor [ˈviɡər]活力
 defunct 不复存在
 warehouses 仓库
 porch 门廊
+creaked 吱吱作响 
 
 I'm adopted 我是被领养的
 thrilled 激动
