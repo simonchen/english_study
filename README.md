@@ -15,6 +15,7 @@ crumpled 皱巴巴的
 disbelief 怀疑
 vigor [ˈviɡər]活力
 defunct 不复存在
+warehouses 仓库
 
 I'm adopted 我是被领养的
 thrilled 激动
