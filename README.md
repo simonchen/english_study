@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+rejuvenated 恢复活力
 scrunched-up 揉成一团的
 powder 粉末
 crumpled 皱巴巴的
