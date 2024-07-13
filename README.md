@@ -12,6 +12,7 @@ rave 狂欢，敬服
 scrunched-up 揉成一团的
 powder 粉末
 crumpled 皱巴巴的
+disbelief 怀疑
 
 I'm adopted 我是被领养的
 thrilled 激动
