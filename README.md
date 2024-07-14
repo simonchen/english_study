@@ -42,6 +42,8 @@ swirl 漩涡
 dimes 一角硬币
 comic books 漫画书
 indignant adj. 愤怒 indignantly 愤怒地 adv.
+fed up 受够了
+  
 
 I'm adopted 我是被领养的
 thrilled 激动
