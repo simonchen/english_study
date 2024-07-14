@@ -39,6 +39,7 @@ shelves 搁板，货架
 canned 罐头
 excruciating 极其痛苦的
 swirl 漩涡
+dimes 一角硬币
 
 
 I'm adopted 我是被领养的
