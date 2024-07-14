@@ -32,6 +32,7 @@ startled [ˈstärd(ə)ld] 吃
 trepidation 惶恐
 decisively 果断地 adv.
 tease vt. 捉弄，调侃
+stern 严肃的
 
 I'm adopted 我是被领养的
 thrilled 激动
