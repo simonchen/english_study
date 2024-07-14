@@ -28,6 +28,7 @@ polished 光亮的
 perch 位于
 rear 后面
 rickety [ˈrikədē] 摇摇晃晃
+startled [ˈstärd(ə)ld] 吃惊
 
 I'm adopted 我是被领养的
 thrilled 激动
