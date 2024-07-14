@@ -30,6 +30,7 @@ rear 后面
 rickety [ˈrikədē] 摇摇晃晃
 startled [ˈstärd(ə)ld] 吃惊
 trepidation 惶恐
+decisively 果断地 adv.
 
 I'm adopted 我是被领养的
 thrilled 激动
