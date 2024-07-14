@@ -9,7 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
-rejuvenated 恢复活力
+rejuvenated [rəˈjo͞ovəˌnādəd] 恢复活力
 scrunched-up 揉成一团的
 powder 粉末
 crumpled 皱巴巴的
@@ -22,6 +22,7 @@ creaked 吱吱作响
 claustrophobic [ˌklôstrəˈfōbik] 幽闭恐怖症
 musty 霉
 furniture 家俱
+couch 长椅
 starch 浆
 polished 光亮的
 
