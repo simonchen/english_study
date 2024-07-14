@@ -34,6 +34,10 @@ trepidation 惶恐
 decisively 果断地 adv.
 tease vt. 捉弄，调侃
 stern 严肃的
+feather duster 鸡毛掸子
+shelves 搁板，货架
+canned 罐头
+
 
 I'm adopted 我是被领养的
 thrilled 激动
