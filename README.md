@@ -37,6 +37,7 @@ stern 严肃的
 feather duster 鸡毛掸子
 shelves 搁板，货架
 canned 罐头
+excruciating 极其痛苦的
 
 
 I'm adopted 我是被领养的
