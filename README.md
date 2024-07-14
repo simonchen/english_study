@@ -10,6 +10,7 @@ pristine 原始的
 rave 狂欢，敬服
 
 rejuvenated [rəˈjo͞ovəˌnādəd] 恢复活力
+distressed adj. 苦恼的
 scrunched-up 揉成一团的
 powder 粉末
 crumpled 皱巴巴的
