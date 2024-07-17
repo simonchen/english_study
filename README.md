@@ -18,6 +18,8 @@ disbelief 怀疑
 vigor [ˈviɡər]活力
 defunct 不复存在
 warehouses 仓库
+hammer 锤子
+tap 轻敲
 porch 门廊
 creaked 吱吱作响 
 claustrophobic [ˌklôstrəˈfōbik] 幽闭恐怖症
