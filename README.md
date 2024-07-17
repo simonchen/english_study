@@ -20,6 +20,9 @@ defunct 不复存在
 warehouses 仓库
 hammer 锤子
 tap 轻敲
+plaster mold 石膏模型
+cautiously 小心地
+nickel 镍
 porch 门廊
 creaked 吱吱作响 
 claustrophobic [ˌklôstrəˈfōbik] 幽闭恐怖症
