@@ -50,6 +50,7 @@ indignant adj. 愤怒 indignantly 愤怒地 adv.
 fed up 受够了
   
 
+pounding heart 心跳加速
 I'm adopted 我是被领养的
 thrilled 激动
 fed up 受够了
