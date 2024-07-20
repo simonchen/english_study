@@ -49,7 +49,7 @@ comic books 漫画书
 indignant adj. 愤怒 indignantly 愤怒地 adv.
 fed up 受够了
   
-
+anticipate [anˈtisəˌpāt] v. 预料
 pounding heart 心跳加速
 I'm adopted 我是被领养的
 thrilled 激动
@@ -171,7 +171,7 @@ authority 权威
 sophisticated 复杂的
 accompany vt. 陪伴
 famine 饥荒
-plague 瘟疫
+plague 瘟疫 plagued 受困扰的
 exemption 豁免
 proportionate adj. 相称的
 heritage 遗产
