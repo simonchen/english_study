@@ -49,6 +49,7 @@ comic books 漫画书
 indignant adj. 愤怒 indignantly 愤怒地 adv.
 fed up 受够了
 
+scornfove 藐视，瞧不起
 mitigate v. 缓解
 anticipate [anˈtisəˌpāt] v. 预料
 pounding heart 心跳加速
