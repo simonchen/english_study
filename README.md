@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+comic 漫画
 rejuvenated [rəˈjo͞ovəˌnādəd] 恢复活力
 distressed adj. 苦恼的
 scrunched-up 揉成一团的
