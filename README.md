@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+tattered [ˈtadərd] 破烂 adj.
 comic 漫画
 rejuvenated [rəˈjo͞ovəˌnādəd] 恢复活力
 distressed adj. 苦恼的
