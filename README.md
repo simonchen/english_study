@@ -9,6 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+implant 注入
 barring 除...之外 (barring unforeseen 除非不可遇测 , barring accidents 惹无意外)
 cataclysmic 灾难性的
 bullies 恶霸
