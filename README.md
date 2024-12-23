@@ -58,6 +58,8 @@ comic books 漫画书
 indignant adj. 愤怒 indignantly 愤怒地 adv.
 fed up 受够了
 
+stiff adj. 生硬, 呆板, 拘谨
+scornful adj. 轻视的, 鄙视的
 negligible 微不足道
 horizons 视野
 scornfove 藐视，瞧不起
