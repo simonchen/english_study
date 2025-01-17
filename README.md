@@ -9,6 +9,13 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
+
+cabin n 小木屋, 舱
+gasoline n. 汽油
+liter n. 升
+lobster n. 龙虾
+demand vt. 需求,需要
+splendid adj 精彩的
 vacant 空虚 vacant seat 空座位
 excruciating 极其痛苦的
 ostracism [ˈästrəˌsiz(ə)m] 排斥
