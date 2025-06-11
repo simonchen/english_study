@@ -9,7 +9,7 @@ spectacular 壮观的
 pristine 原始的
 rave 狂欢，敬服
 
-
+take it for granted 理所当然的
 cabin n 小木屋, 舱
 gasoline n. 汽油
 liter n. 升
