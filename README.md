@@ -17,7 +17,7 @@ lobster n. 龙虾
 demand vt. 需求,需要
 splendid adj 精彩的
 vacant 空虚 vacant seat 空座位
-excruciating 极其痛苦的
+excruciating 极其痛苦的 crucial 至关重要 
 ostracism [ˈästrəˌsiz(ə)m] 排斥
 implant 注入
 barring 除...之外 (barring unforeseen 除非不可遇测 , barring accidents 惹无意外)
