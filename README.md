@@ -21,7 +21,7 @@ excruciating 极其痛苦的 crucial 至关重要
 ostracism [ˈästrəˌsiz(ə)m] 排斥
 implant 注入
 barring 除...之外 (barring unforeseen 除非不可遇测 , barring accidents 惹无意外)
-cataclysmic 灾难性的
+cataclysmic [ˌkadəˈklizmik] 灾难性的
 bullies 恶霸
 tattered [ˈtadərd] 破烂 adj.
 comic 漫画
