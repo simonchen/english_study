@@ -248,5 +248,7 @@ continent 大陆
 stereotyped sob 老套的催人泪下
 press 新闻界
 fall with a crash 坠毁
-
+pick up the pace 加快步伐
+pale 苍白的
+  
 </pre>
